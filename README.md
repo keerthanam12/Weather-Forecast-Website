@@ -21,7 +21,7 @@ Weather Forecast Website project! This web application provides real-time weathe
 
 ## 📌 Installation
 
-<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/keerthanam12/Weather-Forecast-Website/assets/145577874/be6353ab-bad9-4a83-9297-1f828cf650b1" width="100" alt="Node.js Logo"></a></p>
+<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/keerthanam12/Weather-Forecast-Website/assets/145577874/be6353ab-bad9-4a83-9297-1f828cf650b1" width="200" alt="Node.js Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mouf/nodejs-installer"><img src="https://img.shields.io/packagist/dt/mouf/nodejs-installer" alt="Total Downloads"></a>
@@ -40,7 +40,7 @@ Weather Forecast Website project! This web application provides real-time weathe
 ## ⚡ Need more Toturial?
   * [Node.js Official Site](https://nodejs.org/en)
 
-<p align="center"><a href="https://www.npmjs.com/" target="_blank"><img src="" width="100" alt="NPM Logo"></a></p>
+<p align="center"><a href="https://www.npmjs.com/" target="_blank"><img src="https://github.com/keerthanam12/Weather-Forecast-Website/assets/145577874/2cf8cd39-d828-4130-95e8-d57ec8ea2dae" width="200" alt="NPM Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mouf/nodejs-installer"><img src="https://img.shields.io/packagist/dt/mouf/nodejs-installer" alt="Total Downloads"></a>
