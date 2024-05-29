@@ -21,7 +21,7 @@ Weather Forecast Website project! This web application provides real-time weathe
 
 ## 📌 Installation
 
-<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="" width="100" alt="Node.js Logo"></a></p>
+<p align="center"><a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/keerthanam12/Weather-Forecast-Website/assets/145577874/be6353ab-bad9-4a83-9297-1f828cf650b1" width="100" alt="Node.js Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mouf/nodejs-installer"><img src="https://img.shields.io/packagist/dt/mouf/nodejs-installer" alt="Total Downloads"></a>
