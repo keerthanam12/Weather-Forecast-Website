@@ -71,7 +71,7 @@ Weather Forecast Website project! This web application provides real-time weathe
 
 **3.** Then go to VSCode and open folder and open this file.
 
-**4.** Then click New Terminal and type [cd the-weather-forecasting-main] and click enter. 
+**4.** Then click New Terminal and type [cd Weather-Forecast-Website] and click enter. 
 
 **5.** Run the following commands:
 
